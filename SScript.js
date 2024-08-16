@@ -1,8 +1,8 @@
 
 let ciudades = [
-    { nombre: "Ciudad A", poblacion: 500000 },
-    { nombre: "Ciudad B", poblacion: 1000000 },
-    { nombre: "Ciudad C", poblacion: 750000 }
+    { nombre: "Ciudad A", poblacion: 35600 },
+    { nombre: "Ciudad B", poblacion: 6265 },
+    { nombre: "Ciudad C", poblacion: 454365488 }
   ];
   
   
